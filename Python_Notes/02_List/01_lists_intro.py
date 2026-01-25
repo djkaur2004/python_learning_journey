@@ -22,3 +22,10 @@ print(fruit[2])  # grapes
 # List slicing means taking a part (slice) of a list using index range.
 list3 = ["sam", "rohan", "sachin", 98, 78.9, 88]
 print("Slicing of list ",c[0:4])  # ["sam", "rohan", "sachin", 98]
+
+# Join two list
+list4 = [1,2,3,4,5]
+list5 = [6,7,8,9,10]
+
+list = list4 + list5
+print(list)  # [1,2,3,4,5,6,7,8,9,10]
