@@ -7,3 +7,11 @@ Loops are used to repeat a block of code multiple times until a certain conditio
 
 - for loop
 - while loop
+
+# Difference between for loop and while loop
+
+| for loop                                | while loop                            |
+| --------------------------------------- | ------------------------------------- |
+| Used when number of iterations is known | Used when condition is based on logic |
+| Iterates over sequences                 | Runs till condition is False          |
+| Safer and cleaner                       | Risk of infinite loop                 |
